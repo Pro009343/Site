@@ -1,0 +1,122 @@
+body {
+    background-color: 5CCCCC;
+}
+
+.text1 {
+    position: absolute;
+    width: 607px;
+    height: 294px;
+    left: 68px;
+    top: 363px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    color: #7546D7;
+
+}
+.text2 {
+    position: absolute;
+    width: 531px;
+    height: 324px;
+    left: 78px;
+    top: 655px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #DB37BC;
+}
+.text3 {
+    position: absolute;
+    width: 494px;
+    height: 220px;
+    left: 76px;
+    top: 990px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FF9640;
+}
+.text4 {
+    position: absolute;
+    width: 567px;
+    height: 308px;
+    left: 1361px;
+    top: 328px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #1531AE;
+}
+.text5 {
+    position: absolute;
+    width: 626px;
+    height: 264px;
+    left: 1293px;
+    top: 620px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FF7373;
+}
+.img1 {
+    position: absolute;
+    width: 658px;
+    height: 698px;
+    left: 609px;
+    top: 539px;
+    background: url(image.png);
+}
+.img2 {
+    position: absolute;
+    width: 539px;
+    height: 530px;
+    left: 58px;
+    top: 1267px;
+    background: url(image.png);
+}
+.img3 {
+    position: absolute;
+    width: 363px;
+    height: 502px;
+    left: 1388px;
+    top: 896px;
+    background: url(image.png);
+}
+.h11 {
+    position: absolute;
+    width: 548px;
+    height: 77px;
+    left: 676px;
+    top: 68px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 77px;
+    color: #F8F4F4;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h12 {
+    position: absolute;
+    width: 1188px;
+    height: 87px;
+    left: 428px;
+    top: 233px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #999999;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
